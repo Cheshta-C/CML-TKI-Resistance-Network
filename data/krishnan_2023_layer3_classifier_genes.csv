@@ -1,0 +1,49 @@
+Gene,Classifier,Cell_Type,Function
+S100A4,HSC Multi-class,HSC,Cyclophosphamide resistance in CML
+MT2A,HSC Multi-class,HSC,Up in imatinib resistant gastrointestinal stromal tumors
+HSPE1,HSC Multi-class,HSC,Up in Hif1a-/- LSCs vs WT LSCs in CML
+CD52,HSC Multi-class,HSC,CD52 is expressed in CML stem cells
+CRIF1,HSC Multi-class,HSC,Implicated in osteosarcoma radio resistance
+AC007952.4,HSC Multi-class,HSC,i(17q) breakpoint in hematological malignancy
+CPA3,HSC Multi-class,HSC,Up in CML stem cells
+SNHG7,HSC Multi-class,HSC,Radioactive iodine resistance in thyroid carcinoma
+H1FX,HSC Multi-class,HSC,Down during CEBPa-induced differentiation of BCR-ABL1+ cells
+INSIG1,HSC Multi-class,HSC,Down in BMS-754807-resistance model for rhabdomyosarcoma
+RSU1,HSC Multi-class,HSC,Binds to TKI dasatinib through ILK
+ECHS1,HSC Multi-class,HSC,Positively correlated with blast number in BC-CML
+CCNB1IP1,HSC Multi-class,HSC,Down in BCR-ABL1+ Abl-/- vs BCR-ABL1+ Abl+/+
+RPL39,HSC Multi-class,HSC,Up after Nilotinib treatment
+CPA3,HSC Binary,HSC,Up in CML stem cells
+GAS2,HSC Binary,HSC,Marker of BCR-ABL1+ CML stem cells
+NET1,HSC Binary,HSC,Overexpression increases K562 proliferation
+RSU1,HSC Binary,HSC,Binds to TKI dasatinib through ILK
+INSIG1,HSC Binary,HSC,Down in BMS-754807 resistance model for rhabdomyosarcoma
+SNHG7,HSC Binary,HSC,Radioactive iodine resistance in thyroid carcinoma
+H1FX,HSC Binary,HSC,Down during CEBPa-induced differentiation of BCR-ABL1+ cells
+NEMF,HSC Binary,HSC,Sensitizes cells to a protein translation inhibitor
+SPTLC2,HSC Binary,HSC,ABL-dependent phosphorylation of SPTLC1 inhibits activity
+CDK10,HSC Binary,HSC,
+TMPO,HSC Binary,HSC,Downregulated by TKI treatment in CML
+RPL8,HSC Binary,HSC,
+PTPN7,HSC Binary,HSC,
+PMAIP1,HSC Binary,HSC,
+PECAM1,HSC Binary,HSC,Overexpression downregulates imatinib-induced apoptosis
+NEMF,NK Binary,NK,Sensitizes cells to protein translation inhibitor
+KIR3DL2,NK Binary,NK,Specific KIR3DL2 alleles were positively associated with DMR
+SRP72,NK Binary,NK,
+COPS9,NK Binary,NK,
+GK5,NK Binary,NK,
+SDF4,NK Binary,NK,
+HBB,NK Binary,NK,
+CBX3,NK Binary,NK,
+STK17A,NK Binary,NK,Up after FcR activation of NK cells in the presence of IL-12
+SLAMF7,NK Binary,NK,SLAMF7 engagement promotes NK cell activation
+CAPN1,NK Binary,NK,
+PIK3R5,NK Binary,NK,Inositol phospholipid signaling pathway KO mice have NK defects
+PREX1,NK Binary,NK,
+CALCOCO2,NK Binary,NK,
+CD38,NK Binary,NK,CD38 deletion in NK cells changes metabolism
+COPZ1,NK Binary,NK,
+KLRC1,NK Binary,NK,NKG2A downregulation enhances NK cell cytotoxicity
+PLEKHJ1,NK Binary,NK,
+CD160,NK Binary,NK,

@@ -1,0 +1,2 @@
+category,subcategory,ID,Description,GeneRatio,BgRatio,RichFactor,FoldEnrichment,zScore,pvalue,p.adjust,qvalue,geneID,Count
+Cellular Processes,Cell growth and death,hsa04110,Cell cycle,11/22,12/144,0.9166666666666666,6,7.655491974853685,8.368069960666378e-10,3.347227984266551e-9,2.642548408631488e-9,983/4172/4174/5111/699/9232/995/7272/113130/9700/9088,11
